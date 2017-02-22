@@ -1,8 +1,8 @@
 ﻿name: "Kwiat Quantum Information Group"
 description: "Our group website"
 
-url: "http://research.physics.illinois.edu/QI/Photonics"
-baseurl: "/QI/Photonics"
+url: "http://kdsec.org/group-website-jekyll/"
+baseurl: "/group-website-jekyll/"
 #baseurl: ""
 paper-path: "papers/My Collection.Data/PDF"
 
